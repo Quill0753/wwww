@@ -1,0 +1,232 @@
+@media screen {
+    #welvih{
+        font: 35px bold;
+        text-align: center;
+    }
+    #h31{
+        float: left;
+        text-align: center;
+        background-color: aqua;
+        border: 1px solid dodgerblue;
+        border-radius: 10px;
+        padding: 10px;
+        width: 30%;
+    }
+    #h32{
+        float: left;
+        text-align: center;
+        background-color: aqua;
+        border: 1px solid dodgerblue;
+        border-radius: 10px;
+        padding: 10px;
+        width: 30%;
+    }
+    #h33{
+        float: left;
+        text-align: center;
+        background-color: aqua;
+        border: 1px solid dodgerblue;
+        border-radius: 10px;
+        padding: 10px;
+        width: 30%;
+    }
+    #company1{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company2{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company3{
+        max-width: 30%;
+        float: left;
+        clear: right;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company4{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company5{
+        max-width: 30%;
+        float: left;
+        clear: right;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company6{
+        max-width: 30%;
+        float: left;
+        clear: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company7{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company8{
+        vertical-align: top;
+        max-width: 30%;
+        float: left;
+        clear: right;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company9{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company10{
+        max-width: 30%;
+        float: left;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company11{
+        max-width: 30%;
+        float: left;
+        clear: right;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #company12{
+        max-width: 30%;
+        float: left;
+        clear: both;
+        width: 400px;
+        border: 1px solid darkblue;
+    }
+    #yourchoice{
+        clear: both;
+    }
+    #time{
+        clear: both;
+    }
+    #com1{
+        clear:both;
+        display: none;
+    }
+    #com2{
+        clear:both;
+        display: none;
+    }
+    #com3{
+        clear:both;
+        display: none;
+    }
+    #h31:hover + #com1{
+        clear:both;
+        display: block;
+    }
+    #h32:hover + #com2{
+        clear:both;
+        display: block;
+    }
+    #h33:hover + #com3{
+        clear:both;
+        display: block;
+    }
+    #h31:hover{
+        background-color: white;
+    }
+    #h32:hover{
+        background-color: white;
+    }
+    #h33:hover{
+        background-color: white;
+    }
+    #com1:hover{
+        clear:both;
+        display: block;
+    }
+    #com2:hover{
+        clear:both;
+        display: block;
+    }
+    #com3:hover{
+        clear:both;
+        display: block;
+    }
+    #submit{
+        display: inline-block;
+        text-decoration: none;
+        font: rgb(230, 44, 44);
+        border: 2px solid black;
+        padding: 5px;
+    }
+    #clear{
+        display: inline-block;
+        text-decoration: none;
+        font: rgb(230, 44, 44);
+        border: 2px solid black;
+        padding: 5px;
+    }
+    #choose{
+        background-color: antiquewhite;
+        border: 1px solid orange;
+    }
+    #choosehead{
+        background-color: coral;
+    }
+    #choosebody tr:nth-child(even){
+        background-color: rgb(230, 159, 71);
+    }
+    #choosebody tr:nth-child(even):hover{
+        background-color: rgb(77, 249, 255);
+    }
+    #choosebody tr:nth-child(odd){
+        background-color: bisque;
+    }
+    #choosebody tr:nth-child(odd):hover{
+        background-color: rgb(206, 255, 209);
+    }
+    #company1:hover{
+        background-color: rgb(0, 255, 195);
+    }
+    #company2:hover{
+        background-color: rgb(0, 255, 200);
+    }
+    #company3:hover{
+        background-color: rgb(0, 255, 183);
+    }
+    #company4:hover{
+        background-color: rgb(0, 255, 200);
+    }
+    #company5:hover{
+        background-color: rgb(0, 255, 166);
+    }
+    #company6:hover{
+        background-color: rgb(0, 255, 128);
+    }
+    #company7:hover{
+        background-color: rgb(0, 255, 204);
+    }
+    #company8:hover{
+        background-color: rgb(0, 255, 170);
+    }
+    #company9:hover{
+        background-color: rgb(0, 255, 200);
+    }
+    #company10:hover{
+        background-color: rgb(0, 255, 200);
+    }
+    #company11:hover{
+        background-color: rgb(0, 255, 217);
+    }
+    #company12:hover{
+        background-color: rgb(0, 255, 217);
+    }
+}

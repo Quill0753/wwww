@@ -1,0 +1,33 @@
+#invite{
+    border: 2px solid darkcyan;
+    padding: 5px;
+    margin: 3px;
+}
+#map{
+    float: left;
+    width: 700px;
+    height: 750px;
+    max-width: 50%;
+}
+#locate{
+    float: left;
+    border: 5px solid rgb(150, 148, 148);
+    padding: 20px;
+}
+#please{
+    font: 25px bold;
+    text-align: center;
+    display: block;
+    clear: left;
+}
+#Date{
+    padding-left: 50px;
+    text-align: left;
+}
+#Time{
+    padding-left: 50px;
+    text-align: left;
+}
+#Novi{
+    padding-left: 20px;
+}

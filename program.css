@@ -1,0 +1,47 @@
+#program{
+    text-align: center;
+    font: 30px bold;
+}
+#join{
+    float: left;
+    width: 700px;
+    max-width: 45%;
+}
+#video1{
+    float: left;
+    max-width: 46%;
+}
+#become{
+    clear: left;
+    float: left;
+    width: 700px;
+    max-width: 45%;
+}
+#video2{
+    float: left;
+    max-width: 46%;
+    clear: right;
+}
+#last{
+    margin: auto;
+    clear: both;
+    text-align: center;
+}
+#lthead{
+    background-color: tomato;
+}
+#ltbody tr:nth-child(even){
+    background-color: rgb(250, 193, 172);
+}
+#ltbody tr:nth-child(odd){
+    background-color: rgb(255, 203, 131);
+}
+#tocontact{
+    background-color: aqua;
+}
+#fuck{
+    text-align: center;
+}
+#tired{
+    margin: auto;
+}

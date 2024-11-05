@@ -1,0 +1,29 @@
+@media print {
+    nav{
+        display: none;
+    }
+    #welvih{
+        display: none;
+    }
+    #common{
+        display: none;
+    }
+    #h31{
+        display: none;
+    }
+    #h32{
+        display: none;
+    }
+    #h33{
+        display: none;
+    }
+    #com1{
+        display: none;
+    }
+    #com2{
+        display: none;
+    }
+    #com3{
+        display: none;
+    }
+}

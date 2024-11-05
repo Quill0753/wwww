@@ -1,0 +1,75 @@
+/*  */
+.logo {
+    display: block;
+    margin: auto;
+    width: 350px;
+    height: 120px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+header{
+     width: 100%;
+     background-color: rgb(191, 235, 243);
+     margin: 0px;
+}
+ul{
+    list-style-type: none;
+    text-align: center;
+    padding-top: 19px;
+}
+li{
+    display: inline;
+    margin-right: 40px;
+    font-size: 18px;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(232, 244, 255);
+
+}
+ul li a:hover{
+    color: blue;
+}
+ul li a:active{
+    color: coral;
+}
+ul li a:visited{
+    color: yellow;
+}
+nav{
+    background-color: rgb(5, 76, 143);
+    height: 70px;
+    margin: 0px;
+}
+#p1{
+    background-color: aliceblue;
+    margin: 0px;
+}
+.information{
+    vertical-align: top;
+    padding-top: 20px;
+    width: 49%;
+    height: 500px;
+    background-color: rgb(205, 220, 242);
+    display: inline-block;
+}
+img{
+    max-width: 99%;
+    max-height: 90%;
+}
+.footer{
+    display: block;
+    margin: auto;
+    width: 300px;
+    height: 50px;
+    max-width: 50%;
+    max-height: 10%;
+}
+footer p{
+    text-align: center;
+}
+footer{
+    background: linear-gradient(to right, #b3bff3,#0ab7de);
+}
